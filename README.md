@@ -44,7 +44,7 @@ for i in ./ss/*; do
 done
 ```
 # 
-Now let's say for some reason you want to create a directory with the name of the nth Fibonacci number you've specified. The following code will create a directory called "37889062373143906" (80th Fibonacci number).
+Now let's say for some reason you want to create a directory with the name of the nth Fibonacci number you've specified. The following code will create a directory called "37889062373143906".
 ```bash
 ./script.sh 80
 ```
